@@ -81,23 +81,23 @@ const App = () => {
     projects: {
       title: "Projects",
       items: [
+        // {
+        //   title: "E-commerce Platform",
+        //   description: "A full-stack e-commerce solution with user authentication, product catalog, shopping cart, and payment gateway integration.",
+        //   techStack: ["React", "Node.js", "Express", "MongoDB", "Stripe"],
+        //   link: "https://github.com/johndoe/ecommerce-platform",
+        // },
         {
-          title: "E-commerce Platform",
-          description: "A full-stack e-commerce solution with user authentication, product catalog, shopping cart, and payment gateway integration.",
-          techStack: ["React", "Node.js", "Express", "MongoDB", "Stripe"],
-          link: "https://github.com/johndoe/ecommerce-platform",
+          title: "Website High Schoool",
+          description: "It is eazy for studeny or self study",
+          techStack: ["ReactJS", "TailwindCSS"],
+          link: "https://mykhmernews.site",
         },
         {
-          title: "Task Management App",
-          description: "A collaborative task management application with real-time updates, drag-and-drop functionality, and user roles.",
-          techStack: ["Next.js", "Firebase", "TypeScript", "Tailwind CSS"],
-          link: "https://github.com/johndoe/task-app",
-        },
-        {
-          title: "Personal Blog",
-          description: "A responsive blog platform featuring a rich text editor, comment system, and dynamic routing for posts.",
-          techStack: ["Gatsby", "GraphQL", "Strapi", "Markdown"],
-          link: "https://github.com/johndoe/personal-blog",
+          title: "Selling Clothsing",
+          description: "A collaborative Selling Clothsing lication with real-time updates, drag-and-drop functionality, and user roles.",
+          techStack: ["ReactJS", "TypeScript","Tailwind CSS","Firebase", ],
+          link: "https://selling-clothes.vercel.app/",
         },
       ],
     },
